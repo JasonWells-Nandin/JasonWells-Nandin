@@ -1,8 +1,6 @@
-<img align="right" src="https://count.getloli.com/get/@:JasonWells-Nandin?theme=rule34">
-
 ## Network Security & Security Development Engineer—Jason
 
-Passionate about network security and technology. 3 years of work experience. Low-key and reserved. <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+​		Passionate about network security and technology. 3 years of work experience. Low-key and reserved. <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 ### **Technology Stack**
 
@@ -18,7 +16,3 @@ Passionate about network security and technology. 3 years of work experience. Lo
 
 [![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=JasonWells-Nandin&show_icons=true&theme=vue)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonWells-Nandin&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonWells-Nandin&layout=compact&langs_count=6)
-
