@@ -1,16 +1,24 @@
-## Hi there 👋
+<img align="right" src="https://count.getloli.com/get/@:JasonWells-Nandin?theme=rule34">
 
-<!--
-**JasonWells-Nandin/JasonWells-Nandin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Network Security & Security Development Engineer—Jason
 
-Here are some ideas to get you started:
+Passionate about network security and technology. 3 years of work experience. Low-key and reserved. <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Technology Stack**
+
+
+
+### Open Source Projects
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=mp4To4K-rust)](https://github.com/Minori-ty/mp4To4K-rust)
+
+
+
+### Github Activity
+
+[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=JasonWells-Nandin&show_icons=true&theme=vue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonWells-Nandin&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonWells-Nandin&layout=compact&langs_count=6)
+
