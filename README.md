@@ -24,4 +24,9 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JasonWells-Nandin&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-![](https://raw.githubusercontent.com/JasonWells-Nandin/JasonWells-Nandin/main/assets/github-contribution-grid-snake.svg)
+<!-- snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JasonWells-Nandin/JasonWells-Nandin/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/JasonWells-Nandin/JasonWells-Nandin/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
