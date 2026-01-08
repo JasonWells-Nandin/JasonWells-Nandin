@@ -21,4 +21,4 @@
 ### Github Activity
 
 [![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasonWells-Nandin)](https://github.com/anuraghazra/github-readme-stats)
+[![JasonWells-Nandin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasonWells-Nandin)](https://github.com/anuraghazra/github-readme-stats)
