@@ -1,0 +1,27 @@
+            - 名称：从 GitHub 贡献网格生成贪吃蛇游戏
+  您可以锁定到特定的提交或版本。
+  # 使用：Platane/snk@a69d1dbca7a94c2ef0edf10dcd9e19982d74dd39
+  使用版本：Platane/snk@v3.3.0
+  和：
+    # GitHub 用户名
+    github_user_name：JasonWells-Nandin
+    # 用于获取贡献日历的 GitHub 令牌。如果为空，则默认为操作令牌。
+    github_token：# 可选，默认值为 ${{ github.token }}
+    # 要生成的文件列表。
+每行一个文件。每个输出都可以使用查询字符串中的选项进行自定义。
+
+ 支持的查询字符串选项：
+
+- 调色板：一种预设颜色，可以是 [github, github-dark, github-light] 之一。
+- color_snake：蛇的颜色
+- color_dots: 以逗号分隔的点颜色列表。
+                第一个贡献值为 0，然后从贡献值最低到最高依次递增。
+                预计会有5种颜色。
+例子：
+  输出：|
+    dark.svg?palette=github-dark&color_snake=blue
+    light.svg?color_snake=#7845ab
+    ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+    输出：# 可选
+          
