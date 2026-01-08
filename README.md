@@ -22,3 +22,6 @@
 
 [![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JasonWells-Nandin&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+![](https://raw.githubusercontent.com/JasonWells-Nandin/JasonWells-Nandin/main/assets/github-contribution-grid-snake.svg)
